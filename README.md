@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Rowena</h1>
-<h3 align="center">I'm a Millwright Apprentice turned Full Stack Developer</h3>
+<h1>Hi 👋, I'm Rowena</h1>
+<h3>I'm a Millwright Apprentice turned Full Stack Developer</h3>
 
 - 🔭 I’m currently working on [my capstone project, SoundChek](https://github.com/rfonseka42/soundchek-capstone)
 
