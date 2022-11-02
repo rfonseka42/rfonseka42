@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Rowena</h1>
 <h3>I'm a Millwright Apprentice turned Full Stack Developer</h3>
 
-- 🔭 I’m currently working on [my capstone project, SoundChek](https://github.com/rfonseka42/soundchek-capstone)
+- 📚 Web Development Bootcamp Graduate from BrainStation, Toronto (September, 2022)
 
 - 🌱 I’m currently learning **to improve my skills in mySQL and React**
 
