@@ -3,7 +3,7 @@
 
 - 📚 Web Development Bootcamp Graduate from BrainStation, Toronto (September, 2022)
 
-- 🌱 I’m currently learning **to improve my skills in mySQL and React**
+- 🌱 I’m currently learning **to improve my skills in Javascript, React and MySQL**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/rowenafonseka/](https://www.linkedin.com/in/rowenafonseka/)
 
